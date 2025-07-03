@@ -1,3 +1,4 @@
 go out
 touch grass
 fry
+meet friends
